@@ -13,3 +13,5 @@ for(char i = 0; i < 8; i++)
   }
 }
 ```
+
+[Link na repozitar Alese Povalece](https://github.com/alpov/SPST)
